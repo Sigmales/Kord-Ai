@@ -39,7 +39,7 @@
     "jimp": "^1.6.0",
     "link-preview-js": "^3.0.14",
     "lodash.debounce": "^4.0.8",
-    "moment-timezone": "^0.5.34",
+    "moment-timezone": "^0.6.0",
     "mongoose": "^8.15.1",
     "node-cache": "latest",
     "node-cron": "^3.0.0",
